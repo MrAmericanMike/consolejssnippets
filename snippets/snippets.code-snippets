@@ -1,0 +1,117 @@
+{
+	"Console Assert": {
+		"prefix": "cas",
+		"body": "console.assert(${1}, ${2});",
+		"description": "Console Assert"
+	},
+	"Console Clear": {
+		"prefix": "ccl",
+		"body": "console.clear();",
+		"description": "Console Clear"
+	},
+	"Console Count": {
+		"prefix": "cco",
+		"body": "console.count(${1});",
+		"description": "Console Count"
+	},
+	"Console Count Reset": {
+		"prefix": "ccr",
+		"body": "console.countReset(${1});",
+		"description": "Console Count Reset"
+	},
+	"Console Create Task": {
+		"prefix": "cct",
+		"body": "console.createTask(${1});",
+		"description": "Console Create Task"
+	},
+	"Console Dedug": {
+		"prefix": "cde",
+		"body": "console.debug(${1});",
+		"description": "Console Debug"
+	},
+	"Console Dir": {
+		"prefix": "cdi",
+		"body": "console.dir(${1});",
+		"description": "Console Dir"
+	},
+	"Console Dirxml": {
+		"prefix": "cdx",
+		"body": "console.dirxml(${1});",
+		"description": "Console Dirxml"
+	},
+	"Console Error": {
+		"prefix": "cer",
+		"body": "console.error(${1});",
+		"description": "Console Error"
+	},
+	"Console Group": {
+		"prefix": "cgr",
+		"body": "console.group(${1});",
+		"description": "Console Group"
+	},
+	"Console Group Collapsed": {
+		"prefix": "cgc",
+		"body": "console.groupCollapsed(${1});",
+		"description": "Console Group Collapsed"
+	},
+	"Console Group End": {
+		"prefix": "cge",
+		"body": "console.groupEnd();",
+		"description": "Console Group End"
+	},
+	"Console Info": {
+		"prefix": "cin",
+		"body": "console.info(${1});",
+		"description": "Console Info"
+	},
+	"Console Log": {
+		"prefix": "clg",
+		"body": "console.log(${1});",
+		"description": "Console Log"
+	},
+	"Console Profile": {
+		"prefix": "cpr",
+		"body": "console.profile(${1});",
+		"description": "Console Profile"
+	},
+	"Console Profile End": {
+		"prefix": "cpe",
+		"body": "console.profileEnd(${1});",
+		"description": "Console Profile End"
+	},
+	"Console Table": {
+		"prefix": "cta",
+		"body": "console.table(${1});",
+		"description": "Console Table"
+	},
+	"Console Time": {
+		"prefix": "cti",
+		"body": "console.time(${1});",
+		"description": "Console Time"
+	},
+	"Console Time End": {
+		"prefix": "cte",
+		"body": "console.timeEnd(${1});",
+		"description": "Console Time End"
+	},
+	"Console Time Log": {
+		"prefix": "ctl",
+		"body": "console.timeLog(${1});",
+		"description": "Console Time Log"
+	},
+	"Console Time Stamp": {
+		"prefix": "cts",
+		"body": "console.timeStamp(${1});",
+		"description": "Console Time Stamp"
+	},
+	"Console Trace": {
+		"prefix": "ctr",
+		"body": "console.trace(${1});",
+		"description": "Console Trace"
+	},
+	"Console Warn": {
+		"prefix": "cwa",
+		"body": "console.warn(${1});",
+		"description": "Console Warn"
+	}
+}
